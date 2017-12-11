@@ -1,4 +1,4 @@
-# Project Title
+# Python 4 Dummies
 
 I'm たつき, also known as Hydra, I'm a Python code developer and creator of SQLiAPS and Crunch APS (Automated Python Script), this project was created for those who want to start coding and need some examples of code, this series of code is still in a lot of development and tutorials take quite a long time to develop so this GitHub will be updated probrably every week till tutorial10.py and example 5, part 2 of these tutorials will probrably start around 2018, February, I will try to keep you guys updated on code while that check out [Programming for Dummies](https://discord.gg/eRcm6E8) for help with these examples and tutorials and to learn more about programming as a whole, also check out[Work of Heart](https://discord.gg/fbdhq9w) where I'm active at on the channel #coding_class.
 Please support me to continue these classes by donating at most $1 to my Patreon(https://www.patreon.com/Hydr43301).
