@@ -3,7 +3,7 @@
 
 #Now let's use the "print" function, the print function is pretty straight forward right? it prints the writing on the screen!
 
-print "This is a print message"
+print ("This is a print message")
 
 #Now let's try using a string to print out something, a string is a string of characters to characterize your string you just write any name in our case x = "your string here"
 
@@ -35,4 +35,4 @@ print z
 
 #Or you can just do it manually
 
-print 24+12
+print (24+12)
