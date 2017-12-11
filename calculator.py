@@ -2,18 +2,13 @@
 #The purpose of this script is to teach definitions and equations with Python
 #Python version being used is Python 3.6.4
 
-#Importing the necessarry modules and libraries for the script to work
-import os
-import sys
-import math
-import string
-
 #Numbers to calculate
 x = int(input('Insert the first number here: '))
 y = int(input('Insert the second number here: '))
 
 #Definitions for the equations:
 def addition(x ,y):
+	#Format is pretty much formatting both {} to the correct variable!
 	print('{} + {} Equals to:'.format(x, y))
 	print(x + y)
 
@@ -35,6 +30,7 @@ def percentage(x, y):
 	print(z * 100)	
 
 #Input for the type of equation to be done
+#''' is always used when you want to make more than just a 1 liner print
 equation_type = str(input('''
 	Please type the type of equation you want,
 	Traditional equations:
