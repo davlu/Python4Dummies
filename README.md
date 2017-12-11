@@ -24,7 +24,7 @@ python tutorial1.py
 
 ## Built With
 
-* [Dropwizard](http:///) - The IDE/code editor used to program these files.
+* [Sublime Text 3](http://https://www.sublimetext.com/3/) - The IDE/code editor used to program these files.
 * [Python 3.6.2](https://python.org/) - Programming language used to create the interactive tutorials.
 
 ## Authors
