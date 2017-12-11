@@ -1,15 +1,9 @@
 #Hello fellow students, welcome to tutorial 2 where we will learn inputs, if, elif, else and equations signs in Python, buckle up for this lesson and let's go
-#Let's do the same tactics from last tutorial, import the neccessary modules
-
-import sys
-import os
-import math
-import time
 
 #Now this time we will create a string but a little bit different, this string is an input, the input is inputted by the user and gives us a output depending on the users answer to the question
 #Let's try a basic one like what is 2 times 2 follow the code below!
 
-#equation is the name of our string and input("") is out input, the parantheses is so you can write the question! I like to add str(input("")) to identify it as a string so there aren't errors but you can also do integers or don't type anything just input("")
+#equation is the name of our string and input("") is our input, the parantheses is so you can write the question! I like to add str(input("")) to identify it as a string so there aren't errors but you can also do integers or don't type anything just input("")
 equation = str(input("What is 2x2? "))
 
 #Next we will use if and else statements for the answer, first we will use if for the correct answer, follow the code below!
