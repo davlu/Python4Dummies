@@ -1,6 +1,6 @@
-#Hello today we are going to be coding in Python programming language, if you do not have Python latest version installed #please go to https://www.python.org/ and install Python 3.6.2
+#Hello today we are going to be coding in Python programming language, if you do not have Python latest version installed please go to https://www.python.org/ and install Python 3.6.2
 #-----------------------------------------------------------------------------
-#Now the basics to code in Python is to import modules, modules are well... modules or if you prefer something simpler: add-#ons, these add-ons (modules) are just like Chrome, Steam or game mods (add-ons, modules), when imported correctly (just #like moving a file of the mod to the game folder) you can use and manipulate things in a way that the vanilla software can't, #to import a module it is quite simple, just use import followed by the space bar and the name of the module
+#Now the basics to code in Python is to import modules, modules are well... modules or if you prefer something simpler: add-ons, these add-ons (modules) are just like Chrome, Steam or game mods (add-ons, modules), when imported correctly (just #like moving a file of the mod to the game folder) you can use and manipulate things in a way that the vanilla software can't, #to import a module it is quite simple, just use import followed by the space bar and the name of the module
 #Today we are going to use these simple modules which are the sys, os, time and math for simple things like equations
 
 import sys
@@ -18,7 +18,7 @@ print "This is a print message"
 
 x = "This is a string"
 
-#To invoke strings you just type them without "" quotation marks
+#To invoke strings you just type x or the name you gave to the string
 
 print x
 
@@ -26,7 +26,7 @@ print x
 
 y = 1
 
-#To invoke the integer you can do the same with the string 
+#To invoke the integer you can do the same you did with the string 
 
 print y
 
@@ -34,7 +34,7 @@ print y
 
 print x + y
 
-#Now let's learn some basic math using the math modules and print module, we will use the letter z and it is as simple as this:
+#Now let's learn some basic math using the math modules and print function, we will use the letter z and it is as simple as this:
 
 z = 24+12
 
